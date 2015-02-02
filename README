@@ -1,5 +1,24 @@
 Taylor T. Johnson
 
+This repo includes two programs — a web crawler that scrapes links and words on pages starting from a specified root URL and a simple search engine server which uses
+the data collected by the web crawler.
+	
+					webcrawler
+
+This program takes in root URLs as command line args,
+fetches the HTML files of the roots, finds links found
+in said files, and creates an array as well as a linked list of 
+these URLs leading to valid HTML or text files. While parsing the HTML
+files, a description of each page is extracted from the first 500 characters
+in the content. Words encountered in the content are mapped to a hash table
+containing a linked list of all the URLs that lead to pages in which the
+word can be found.
+
+	Usage: webcrawler <url> <max urls>
+
+
+					search_engine
+
 This program uses the output from the web crawler (url.txt and words.txt) for use as a search engine. 
 
     Usage: search-engine port (array | hash | avl | bsearch) -r

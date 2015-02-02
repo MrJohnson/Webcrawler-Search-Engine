@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "webcrawler.h"
-//#include "SimpleHTMLParser.h"
-//#include "HashTableTemplate.h"
+
 
 #define BUFFER_MAX 500			 //maximum word size
 #define DESCRIPTION_MAX 500
