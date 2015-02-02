@@ -1,0 +1,429 @@
+GET / HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/social/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/rss/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /mobile/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /hotline/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/releases/2014/Q3/purdue-reports-greatest-annual-increase-in-research-funding.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/releases/2014/Q3/record-new-donors,-more-dollars-for-purdue-in-2013-14.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /fivestudents/April-2014/cox HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/releases/2014/Q3/purdue-announces-record-breaking-year-in-commercialization-activities.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /president/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/administration.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/facts_figures.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /strategic_plan/2008-2014/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/integrity_statement.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /diversity-inclusion/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/history.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/traditions.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/purdue_across_indiana.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /giving/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /hr/careers/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/directory_pages/a_listings.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/contact.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/admissions/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: admissions.purdue.edu
+
+GET /admission/ HTTP/1.0
+Host: www.iss.purdue.edu
+
+GET /dfa/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /Bursar/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /Registrar/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/admissions/student_life.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/admissions/housing.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/rankings/ranking.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /vpsa/Welcome.php HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/academics/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /majors/index.php HTTP/1.0
+Host: www.admissions.purdue.edu
+
+GET /programs/ HTTP/1.0
+Host: www.gradschool.purdue.edu
+
+GET /purdue/about/colleges_schools.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.lib.purdue.edu
+
+GET /provost/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /sats/learning_communities/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.studyabroad.purdue.edu
+
+GET /purdue/outreach_community/youth_programs.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: owl.english.purdue.edu
+
+GET /courses HTTP/1.0
+Host: mypurdue.purdue.edu
+
+GET /schedule HTTP/1.0
+Host: mypurdue.purdue.edu
+
+GET /purdue/athletics/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: purduesports.cstv.com
+
+GET /cgi-bin/ncommerce3/SEGetGroupList?groupCode=PURDUE&linkID=purdue&shopperContext=&caller=&appCode= HTTP/1.0
+Host: ev9.evenue.net
+
+GET /sports/jpc/pur-jpc-body.html HTTP/1.0
+Host: www.purduesports.com
+
+GET /schools/purdue/ HTTP/1.0
+Host: btn.com
+
+GET /recsports HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.purduegolf.com
+
+GET /tennis/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /RecSports/facilities/boilermaker_aquatic_center/index.php HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/outreach_community/youth_programs.html#sports_camps HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/research/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/research/research_areas.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /dp/index.php HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.purdueresearchpark.com
+
+GET /programs/summer.cfm HTTP/1.0
+Host: www.gradschool.purdue.edu
+
+GET /Research/vpr/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /humanrel/aao/openings.shtml HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.thepress.purdue.edu
+
+GET /globalaffairs/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /globalaffairs/about/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /globalaffairs/academics/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /globalaffairs/engagement/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /research/gpri/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /visit/ HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.conf.purdue.edu
+
+GET /physicalfacilities/constructionmap/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/whypurdue.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /Majors_Programs/majors.php HTTP/1.0
+Host: www.admissions.purdue.edu
+
+GET /programs/ HTTP/1.0
+Host: www.gradschool.purdue.edu
+
+GET / HTTP/1.0
+Host: www.iss.purdue.edu
+
+GET /funding/ HTTP/1.0
+Host: www.gradschool.purdue.edu
+
+GET /niso/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /studentsuccess HTTP/1.0
+Host: www.purdue.edu
+
+GET /psg/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /pgsg/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/student_health.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.getinvolved.purdue.edu
+
+GET /HTML/Dining/ HTTP/1.0
+Host: www.housing.purdue.edu
+
+GET /purdue/information_for/Student_Consumer_Inf.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /police/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/Parents_families/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /engagement HTTP/1.0
+Host: www.purdue.edu
+
+GET /index.shtml HTTP/1.0
+Host: www.extension.purdue.edu
+
+GET /publicaffairs/ HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: www.tap.purdue.edu
+
+GET /community_relations/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /speakers/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/outreach_businesses/business_with_purdue.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/outreach_businesses/recruiting.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/outreach_businesses/business_general.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /servicelearning/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /odos/bvn/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/for_alumni.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: purduealumni.org
+
+GET /events/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /registrar/Students/Transcripts.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /giving HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/for_faculty_staff_re.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/fac_staff_academic.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/fac_staff_admin.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/fac_staff_comm.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/fac_staff_research.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /hr/Benefits/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/fac_staff_health.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /careers/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/information_for/leadership_orgs.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/social/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/rss/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /mobile/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /hotline/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/releases/2014/Q3/purdue-reports-greatest-annual-increase-in-research-funding.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/releases/2014/Q3/record-new-donors,-more-dollars-for-purdue-in-2013-14.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /fivestudents/April-2014/cox HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/releases/2014/Q3/purdue-announces-record-breaking-year-in-commercialization-activities.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /president/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/administration.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/facts_figures.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /strategic_plan/2008-2014/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/integrity_statement.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /diversity-inclusion/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/history.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/traditions.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/purdue_across_indiana.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /giving/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /hr/careers/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/directory_pages/a_listings.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/about/contact.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/admissions/index.html HTTP/1.0
+Host: www.purdue.edu
+
+GET / HTTP/1.0
+Host: admissions.purdue.edu
+
+GET /admission/ HTTP/1.0
+Host: www.iss.purdue.edu
+
+GET /dfa/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /Bursar/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /Registrar/ HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/admissions/student_life.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /purdue/admissions/housing.html HTTP/1.0
+Host: www.purdue.edu
+
+GET /newsroom/rankings/ranking.html HTTP/1.0
+Host: www.purdue.edu
+

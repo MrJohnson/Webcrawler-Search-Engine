@@ -1,0 +1,7 @@
+Taylor T. Johnson
+
+
+There are no known bugs with either my webcrawler, search-engine, or any of my dictionaries.
+I did not implement AVL remove, however.
+
+Including a -r flag after specifying the dictionary type when starting the program will allow all hits for the searched words to display in ranked order, rather than only the pages that contain all of the words. 
